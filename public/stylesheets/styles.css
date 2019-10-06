@@ -61,3 +61,15 @@ html, body {
 .feature-block img {
   margin-right: 2rem;
 }
+
+.invitation button {
+  margin-top: 1rem;
+  width: 18rem;
+}
+
+.invitation img {
+  display: block;
+  margin: auto;
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+}
