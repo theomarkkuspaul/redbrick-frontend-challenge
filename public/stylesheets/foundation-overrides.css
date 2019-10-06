@@ -1,0 +1,18 @@
+
+/* Navigation padding */
+.top-bar {
+  padding: 2rem 4rem;
+}
+
+/* Navigation background colour */
+.top-bar, .top-bar ul {
+  background-color: white;
+}
+
+/* Change default button colour to orange */
+button, .menu .button, button.button {
+  border-radius: 2px;
+  padding: 1rem 2rem;
+  background-color: orange;
+  font-weight: bold;
+}
