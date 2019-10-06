@@ -1,4 +1,9 @@
 
+
+h1, h2, h3, h4 {
+  font-family: Lato;
+}
+
 /* Navigation padding */
 .top-bar {
   padding: 2rem 4rem;
