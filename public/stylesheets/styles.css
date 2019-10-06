@@ -19,6 +19,7 @@ html, body {
   width: 20rem;
   margin-top: 2rem;
   margin-bottom: 5rem;
+  box-shadow: 0 0 0 8px #f0f3f5; /* Add a box shadow around the button. do not add x/y displacement nor any blur effect however do add 8px spread of a grey tone around the element */
 }
 
 .trustees {
