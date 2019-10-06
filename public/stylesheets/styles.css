@@ -24,3 +24,18 @@ html, body {
   margin-top: 3rem;
   padding: 2rem;
 }
+
+.section-title {
+  margin-top: 4rem;
+}
+
+.section-title-quote {
+  width: 65%;
+  margin: auto;
+  text-decoration: italic; 
+  color: grey;
+  font-size: 1.25rem;
+}
+.application-apps {
+  margin-top: 4rem;
+}
