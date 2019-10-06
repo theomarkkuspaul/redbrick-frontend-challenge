@@ -1,4 +1,9 @@
 
+
+h1, h2, h3, h4 {
+  font-family: Lato;
+}
+
 /* Navigation padding */
 .top-bar {
   padding: 2rem 4rem;
@@ -11,10 +16,11 @@
 
 /* Change default button colour to orange */
 button, .menu .button, button.button {
-  border-radius: 2px;
+  border-radius: 4px;
   padding: 1rem 2rem;
-  background-color: orange;
+  background-color: #ef7530;
   font-weight: bold;
+  letter-spacing: 0.1rem;
 }
 
 .menu.align-center li {

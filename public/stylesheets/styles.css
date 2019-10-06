@@ -5,8 +5,10 @@ html, body {
 }
 
 .title {
-  color: blue;
+  color: #388cf8; /* Shift blue */
   margin: 0;
+  font-weight: 600; /* Bold but not TOO bold*/
+  letter-spacing: 0.4rem; /* Spread out title letters a touch */
 }
 
 .sub-title {
@@ -17,16 +19,19 @@ html, body {
   width: 20rem;
   margin-top: 2rem;
   margin-bottom: 5rem;
+  box-shadow: 0 0 0 8px #f0f3f5; /* Add a box shadow around the button. do not add x/y displacement nor any blur effect however do add 8px spread of a grey tone around the element */
 }
 
 .trustees {
-  background-color: grey;
+  background-color: #f0f3f5; /* Shade of grey used in divider */
   margin-top: 3rem;
   padding: 2rem;
 }
 
 .section-title {
   margin-top: 4rem;
+  font-weight: bold;
+  letter-spacing: 0.1rem;
 }
 
 .section-title-quote {
@@ -41,13 +46,14 @@ html, body {
 }
 
 .features {
-  background-color: blue;
+  background-color: #388cf8; /* Shift blue */
   padding: 4rem;
   color: white;
 }
 
 .features h4 {
   font-size: 1.2rem;
+  font-weight: 600;
 }
 
 .features p {
@@ -72,4 +78,9 @@ html, body {
   margin: auto;
   margin-top: 3rem;
   margin-bottom: 4rem;
+}
+
+/* Font awesome chevron down icon */
+i.fa-chevron-down:before {
+  margin-left: 1rem;
 }
