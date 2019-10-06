@@ -39,3 +39,25 @@ html, body {
 .application-apps {
   margin-top: 4rem;
 }
+
+.features {
+  background-color: blue;
+  padding: 4rem;
+  color: white;
+}
+
+.features h4 {
+  font-size: 1.2rem;
+}
+
+.features p {
+  font-size: 0.8rem;
+}
+
+.feature-block {
+  margin-top: 3rem;
+}
+
+.feature-block img {
+  margin-right: 2rem;
+}
