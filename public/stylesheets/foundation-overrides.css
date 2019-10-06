@@ -16,3 +16,7 @@ button, .menu .button, button.button {
   background-color: orange;
   font-weight: bold;
 }
+
+.menu.align-center li {
+  margin: 0 1.75rem;
+}
