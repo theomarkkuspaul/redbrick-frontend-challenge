@@ -5,3 +5,7 @@ Run python's simple http server
 
 if that fails, try this
 `$ python -m http.server 8080`
+
+Once the local server is running, visit:
+
+localhost:8080
